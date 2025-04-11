@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm CicRodSan
 
-<!--
-**CicRodSan/CicRodSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UFRGS and currently involved in research and extension projects at the Institute of Informatics. On this GitHub, you'll find:
 
-Here are some ideas to get you started:
+- Academic and personal projects  
+- Experiments with languages like Python, C, and Assembly  
+- A growing interest in **Data Science** and the social impact of technology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also part of a social project that offers IT courses to vulnerable youth, helping promote digital inclusion and better job opportunities.
+
+## 💻 Areas of interest
+
+- Data Science  
+- Web Development  
+- Algorithms and Data Structures  
+- Operating Systems  
+- Education & Technology  
+
+Feel free to explore my repositories and connect!
+
+> “Technology with purpose can change lives.”
